@@ -4,23 +4,23 @@ html {
 }
 .header{
   color: DarkRed;
-  background-color: gray;
+  background-color:BurlyWood;
   text-align: center;
   padding: 40px;
 }
 .thucdon{
-  background-color: Chocolate;
+  background-color: Coral;
   text-align: center; 
   display: block; 
 }
 .thucdon a{
-  background-color:Chocolate;
+  background-color:Coral;
   padding: 20px; 
 }
 .thucdon a: hover{
   color: white;
 }
 .noidung{
-  background:gray;
+  background:white;
   margin: 10px;
 }

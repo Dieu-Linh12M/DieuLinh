@@ -2,3 +2,25 @@ html {
   height: 100%;
   width: 100%;
 }
+.header{
+  color: DarkRed;
+  background-color: gray;
+  text-align: center;
+  padding: 40px;
+}
+.thucdon{
+  background-color: Chocolate;
+  text-align: center; 
+  display: block; 
+}
+.thucdon a{
+  background-color:Chocolate;
+  padding: 20px; 
+}
+.thucdon a: hover{
+  color: white;
+}
+.noidung{
+  background:gray;
+  margin: 10px;
+}
